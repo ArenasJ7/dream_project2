@@ -1,10 +1,4 @@
 ## Dream project 2
 
-Create a predictive maintenance model for electric motors based.
-
-It could be beased on:
-* Vibration
-* Temperatures
-* Electrical signals
-
-Or based on historical failures data (if available).
+Create an interactive dashboard with leaflet for the operations team.
+This project will pipeline the operations data from the plant and refresh it self automatically every hour.
